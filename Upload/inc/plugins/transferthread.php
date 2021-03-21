@@ -24,9 +24,9 @@ function transferthread_info()
     return array(
         "name"          => "Transfer Thread",
         "description"   => "Adds a new moderation option through which a thread ownership can be transferred to another user.",
-        "website"       => "website TODO",
+        "website"       => "https://github.com/zegkljan/MyBB-Transfer-Thread",
         "author"        => "Jan Žegklitz",
-        "authorsite"    => "zegkljan.net",
+        "authorsite"    => "http://zegkljan.net/",
         "version"       => "0.1",
         "guid"          => "",
         "codename"      => $codename,
